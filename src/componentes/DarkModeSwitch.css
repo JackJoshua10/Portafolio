@@ -1,0 +1,35 @@
+.dark-mode {
+	background: var(--shade-2);
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	border-radius: 100px;
+	overflow: hidden;
+	cursor: pointer;
+
+	input {
+		display: none;
+	}
+
+	.icono {
+		padding: 7px 12px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 100px;
+		color: var(--shade-7);
+
+		&.active {
+			background: #072537;
+			border: 3px solid var(--shade-2);
+		}
+
+		&.sol.active svg {
+			color: #dbff00;
+		}
+
+		&.luna.active svg {
+			color: #fff;
+		}
+	}
+}
