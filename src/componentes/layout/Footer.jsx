@@ -9,7 +9,7 @@ const Footer = () => {
 					<p className="subtitulo">Sígueme en redes para estar al tanto de las últimas novedades.</p>
 				</div>
 				<div className="links">
-					<a href="https://www.youtube.com/falconmasters" target="_blank" className="link youtube">
+					<a href="#" target="_blank" className="link youtube">
 						YouTube
 						<div className="icono">
 							<svg
@@ -23,7 +23,7 @@ const Footer = () => {
 							</svg>
 						</div>
 					</a>
-					<a href="https://www.youtube.com/falconmasters" target="_blank" className="link linkedin">
+					<a href="https://www.linkedin.com/in/jack-joshua-sivipaucar-quilluya-294495229/" target="_blank" className="link linkedin">
 						Linkedin
 						<div className="icono">
 							<svg
@@ -38,7 +38,7 @@ const Footer = () => {
 							</svg>
 						</div>
 					</a>
-					<a href="https://www.youtube.com/falconmasters" target="_blank" className="link instagram">
+					<a href="https://www.instagram.com/jack.1924u/" target="_blank" className="link instagram">
 						Instagram
 						<div className="icono">
 							<svg
@@ -52,7 +52,7 @@ const Footer = () => {
 							</svg>
 						</div>
 					</a>
-					<a href="https://www.youtube.com/falconmasters" target="_blank" className="link tiktok">
+					<a href="#" target="_blank" className="link tiktok">
 						Tiktok
 						<div className="icono">
 							<svg
@@ -68,7 +68,7 @@ const Footer = () => {
 					</a>
 				</div>
 
-				<p className="copyright">© 2025 FalconMasters. Todos los derechos reservados.</p>
+				<p className="copyright">© 2025 PortalofioPersonalJack. Todos los derechos reservados.</p>
 			</footer>
 		</>
 	);

@@ -81,16 +81,7 @@ const Trabajos = () => {
 						/>
 						<span className="opcion">Desarrollo Web</span>
 					</label>
-					<label htmlFor="aplicaciones-moviles">
-						<input
-							type="radio"
-							name="categoria"
-							id="aplicaciones-moviles"
-							onChange={handleChange}
-							checked={categoriaSelecionada === 'aplicaciones-moviles'}
-						/>
-						<span className="opcion">Aplicaciones Moviles</span>
-					</label>
+					
 					<label htmlFor="desarrollo-software">
 						<input
 							type="radio"

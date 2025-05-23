@@ -74,7 +74,7 @@ const Contacto = () => {
 							type="text"
 							name="nombre"
 							id="nombre"
-							placeholder="John Doe"
+							placeholder="Nombre"
 							value={nombre}
 							onChange={(e) => handleInput(e, 'nombre')}
 						/>
@@ -85,7 +85,7 @@ const Contacto = () => {
 							type="text"
 							name="correo"
 							id="correo"
-							placeholder="john@correo.com"
+							placeholder="Ejemplo@correo.com"
 							value={correo}
 							onChange={(e) => handleInput(e, 'correo')}
 						/>
