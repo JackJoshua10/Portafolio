@@ -3,11 +3,11 @@ const trabajos = [
 		id: 1,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/landing.png',
 			alt: 'Trabajo 1',
 		},
 		info: {
-			nombre: '******',
+			nombre: 'Landing Page Basica',
 			categoria: 'Diseño Web',
 			contenido: (
 				<>
@@ -40,7 +40,7 @@ const trabajos = [
 		id: 2,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/linktree.png',
 			alt: 'Trabajo 2',
 		},
 		info: {
@@ -61,11 +61,11 @@ const trabajos = [
 		id: 4,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/sistema.png',
 			alt: 'Trabajo 4',
 		},
 		info: {
-			nombre: '******',
+			nombre: 'Sistema Registro de Notas',
 			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
@@ -98,7 +98,7 @@ const trabajos = [
 		id: 5,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/portafolio.png',
 			alt: 'Trabajo 5',
 		},
 		info: {
@@ -135,11 +135,11 @@ const trabajos = [
 		id: 6,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/paginapublicitaria.png',
 			alt: 'Trabajo 6',
 		},
 		info: {
-			nombre: '******',
+			nombre: 'Pagina Publicitaria',
 			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
@@ -168,52 +168,52 @@ const trabajos = [
 			),
 		},
 	},
-	{
-		id: 8,
-		categoria: 'desarrollo-software',
-		thumb: {
-			url: './assets/trabajos/enProceso.png',
-			alt: 'Trabajo 8',
-		},
-		info: {
-			nombre: '******',
-			categoria: 'Desarrollo de Software',
-			contenido: (
-				<>
-					<p>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
-						Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
-						officiis provident?
-					</p>
+	// {
+	// 	id: 8,
+	// 	categoria: 'desarrollo-software',
+	// 	thumb: {
+	// 		url: './assets/trabajos/enProceso.png',
+	// 		alt: 'Trabajo 8',
+	// 	},
+	// 	info: {
+	// 		nombre: '******',
+	// 		categoria: 'Desarrollo de Software',
+	// 		contenido: (
+	// 			<>
+	// 				<p>
+	// 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
+	// 					Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
+	// 					officiis provident?
+	// 				</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+	// 				<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
 
-					<p>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
-						Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
-						officiis provident?
-					</p>
+	// 				<p>
+	// 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
+	// 					Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
+	// 					officiis provident?
+	// 				</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+	// 				<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
 
-					<p>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
-						Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
-						officiis provident?
-					</p>
-				</>
-			),
-		},
-	},
+	// 				<p>
+	// 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
+	// 					Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
+	// 					officiis provident?
+	// 				</p>
+	// 			</>
+	// 		),
+	// 	},
+	// },
 	{
 		id: 9,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/soniem.png',
 			alt: 'Trabajo 9',
 		},
 		info: {
-			nombre: '******',
+			nombre: 'Soniem CIMP',
 			categoria: 'Diseño Web',
 			contenido: (
 				<>
@@ -246,11 +246,11 @@ const trabajos = [
 		id: 10,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: './assets/trabajos/enProceso.png',
+			url: './assets/trabajos/rastaurant.png',
 			alt: 'Trabajo 10',
 		},
 		info: {
-			nombre: '******',
+			nombre: 'Restaurant',
 			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
@@ -279,27 +279,27 @@ const trabajos = [
 			),
 		},
 	},
-	{
-		id: 12,
-		categoria: 'desarrollo-software',
-		thumb: {
-			url: './assets/trabajos/enProceso.png',
-			alt: 'Trabajo 12',
-		},
-		info: {
-			nombre: '******',
-			categoria: 'Desarrollo de Software',
-			contenido: (
-				<>
-					<p>
-						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
-						Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
-						officiis provident?
-					</p>
-				</>
-			),
-		},
-	},
+	// {
+	// 	id: 12,
+	// 	categoria: 'desarrollo-software',
+	// 	thumb: {
+	// 		url: './assets/trabajos/enProceso.png',
+	// 		alt: 'Trabajo 12',
+	// 	},
+	// 	info: {
+	// 		nombre: '******',
+	// 		categoria: 'Desarrollo de Software',
+	// 		contenido: (
+	// 			<>
+	// 				<p>
+	// 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
+	// 					Nihil quo beatae aut. Qui nam enim blanditiis obcaecati natus aliquid, rem facilis amet dolore
+	// 					officiis provident?
+	// 				</p>
+	// 			</>
+	// 		),
+	// 	},
+	// },
 ];
 
 export default trabajos;
