@@ -7,7 +7,7 @@ const trabajos = [
 			alt: 'Trabajo 1',
 		},
 		info: {
-			nombre: 'Nexa Sys',
+			nombre: '******',
 			categoria: 'Diseño Web',
 			contenido: (
 				<>
@@ -65,7 +65,7 @@ const trabajos = [
 			alt: 'Trabajo 4',
 		},
 		info: {
-			nombre: 'CyberSphere Innovations',
+			nombre: '******',
 			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
@@ -139,7 +139,7 @@ const trabajos = [
 			alt: 'Trabajo 6',
 		},
 		info: {
-			nombre: 'SynthiCore Systems',
+			nombre: '******',
 			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
@@ -176,7 +176,7 @@ const trabajos = [
 			alt: 'Trabajo 8',
 		},
 		info: {
-			nombre: 'PixelVortex Tech',
+			nombre: '******',
 			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
@@ -213,7 +213,7 @@ const trabajos = [
 			alt: 'Trabajo 9',
 		},
 		info: {
-			nombre: 'OptiSync Technologies',
+			nombre: '******',
 			categoria: 'Diseño Web',
 			contenido: (
 				<>
@@ -250,7 +250,7 @@ const trabajos = [
 			alt: 'Trabajo 10',
 		},
 		info: {
-			nombre: 'TechNova Dynamics',
+			nombre: '******',
 			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
@@ -287,7 +287,7 @@ const trabajos = [
 			alt: 'Trabajo 12',
 		},
 		info: {
-			nombre: 'CodeWave Innovations',
+			nombre: '******',
 			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
