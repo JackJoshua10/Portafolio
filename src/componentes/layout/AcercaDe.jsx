@@ -7,7 +7,7 @@ const AcercaDe = () => {
 				<div className="grid">
 					<div className="col-1">
 						<div className="fotos">
-							<img src="./assets/acerda-de-mi.jpeg" className="foto" alt="" />
+							<img src="./assets/acerda-de-mi.jpg" className="foto" alt="" />
 							<img src="./assets/acerca-de-2.png" className="foto" alt="" />
 						</div>
 					</div>
